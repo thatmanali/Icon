@@ -1,4 +1,4 @@
-# 此目录下订阅图标仓库的Json文件，适用于Quantumult X、Loon、Stash等App。
+# 图标仓库，适用于Quantumult X、Loon、Stash等App。
 ## 一、目前包含的图标如下：
 |     |     |
 | --- | --- |
