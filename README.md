@@ -1,6 +1,6 @@
 # Icon&Wallpaper
 
-## 一些图标和壁纸，自用，随缘更新。如果你也喜欢，欢迎Star🌟或下载。
+## 一些个人收集并整理的图标和壁纸，随缘更新。如果你也喜欢，欢迎Star🌟或下载。
 
 ### [1、头像](https://github.com/iamhuangli/Icon/tree/main/Avatar)
 
