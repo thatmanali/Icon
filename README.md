@@ -4,6 +4,6 @@
 
 ### [1、头像](https://github.com/iamhuangli/Icon/tree/main/Avatar)
 
-### [2、BoxJs壁纸](https://github.com/iamhuangli/Icon/tree/main/BoxJS-Wallpaper)
+### [2、BoxJs壁纸](https://github.com/iamhuangli/Icon/tree/main/BoxJs-Wallpaper)
 
 ### [3、图标仓库](https://github.com/iamhuangli/Icon/tree/main/Subscription)
