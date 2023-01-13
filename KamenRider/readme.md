@@ -1,2 +1,21 @@
 # 假面骑士骑士纹章Logo
-## 图片素材来源网络，仅作整理，侵权请通知作者删除。
+## 二、目前包含的假面骑士Logo如下（按字母正序）：
+Agito
+Blade
+Decade
+Den-O
+Diend
+Ex-Aid
+Faiz
+Fourze
+Hibiki
+Joker
+Kabuto
+Kiva
+Kuuga
+OOO
+Rider1
+Ryuki
+Skull
+Wizard
+## 三、图片素材来源网络，仅作整理，侵权请联系作者删除。
