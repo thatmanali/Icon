@@ -4,6 +4,8 @@
 "icons":
     [
         {"name":"Agito", "url":"https://raw.githubusercontent.com/iamhuangli/Icon/main/KamenRider/agito.png"},
+        {"name":"Black", "url":"https://raw.githubusercontent.com/iamhuangli/Icon/main/KamenRider/black.png"},
+        {"name":"BlackRX", "url":"https://raw.githubusercontent.com/iamhuangli/Icon/main/KamenRider/blackrx.png"},
         {"name":"Blade", "url":"https://raw.githubusercontent.com/iamhuangli/Icon/main/KamenRider/blade.png"},
         {"name":"Decade", "url":"https://raw.githubusercontent.com/iamhuangli/Icon/main/KamenRider/decade.png"},
         {"name":"Decade-Color", "url":"https://raw.githubusercontent.com/iamhuangli/Icon/main/KamenRider/decade-color.png"},
@@ -23,6 +25,7 @@
         {"name":"Rider1", "url":"https://raw.githubusercontent.com/iamhuangli/Icon/main/KamenRider/rider1.png"},
         {"name":"Ryuki", "url":"https://raw.githubusercontent.com/iamhuangli/Icon/main/KamenRider/ryuki.png"},
         {"name":"Skull", "url":"https://raw.githubusercontent.com/iamhuangli/Icon/main/KamenRider/skull.png"},
+        {"name":"W", "url":"https://raw.githubusercontent.com/iamhuangli/Icon/main/KamenRider/w.png"},
         {"name":"Wizard", "url":"https://raw.githubusercontent.com/iamhuangli/Icon/main/KamenRider/wizard.png"},
         {"name":"Wizard-Color", "url":"https://raw.githubusercontent.com/iamhuangli/Icon/main/KamenRider/wizard-color.png"},
     ]
