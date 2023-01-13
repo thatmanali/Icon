@@ -1,4 +1,4 @@
-# 一、此目录下为Quantumult等支持图标仓库App订阅的Json文件。
+# 一、此目录下为Quantumult X等支持图标仓库App订阅的Json文件。
 ## 二、目前包含的假面骑士Logo如下（按字母正序）：
 Agito
 Blade
