@@ -1,0 +1,29 @@
+{
+"name":"KamenRider Icon", 
+"description":"假面骑士纹章，由@阿立整理。", 
+"icons":
+    [
+        {"name":"Agito", "url":"https://raw.githubusercontent.com/iamhuangli/Icon/main/KamenRider/agito.png"},
+        {"name":"Blade", "url":"https://raw.githubusercontent.com/iamhuangli/Icon/main/KamenRider/blade.png"},
+        {"name":"Decade", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/decade.png"},
+        {"name":"Decade-Color", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/decade-color.png"},
+        {"name":"Den-o", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/den-o.png"},
+        {"name":"Diend", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/diend.png"},
+        {"name":"Ex-Aid", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/ex-aid.png"},
+        {"name":"Faiz", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/faiz.png"},
+        {"name":"Faiz-Color", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/faiz-color.png"},
+        {"name":"Fourze", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/fourze.png"},
+        {"name":"Hibiki", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/hibiki.png"},
+        {"name":"Joker", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/joker.png"},
+        {"name":"Kabuto", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/kabuto.png"},
+        {"name":"Kiva", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/kiva.png"},
+        {"name":"Kuuga", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/kuuga.png"},
+        {"name":"OOO", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/ooo.png"},
+        {"name":"OOO-Color", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/ooo-color.png"},
+        {"name":"Rider1", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/rider1.png"},
+        {"name":"Ryuki", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/ryuki.png"},
+        {"name":"Skull", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/Skull.png"},
+        {"name":"Wizard", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/wizard.png"},
+        {"name":"Wizard-Color", "url":"https://github.com/iamhuangli/Icon/blob/main/KamenRider/wizard-color.png"},
+    ]
+}
