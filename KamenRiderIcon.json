@@ -1,0 +1,13 @@
+{
+"name":"KamenRiderIcon Icon", 
+"description":"By Ali", 
+"icons":
+    [
+        {"name":"Faiz", "url":"https://raw.githubusercontent.com/iamhuangli/icon/main/555.png"},
+        {"name":"Agito", "url":"https://raw.githubusercontent.com/iamhuangli/icon/main/agito.png"},
+        {"name":"Decade", "url":"https://raw.githubusercontent.com/iamhuangli/icon/main/decade.png"},
+        {"name":"Kuuga", "url":"https://raw.githubusercontent.com/iamhuangli/icon/main/kuuga.png"},
+        {"name":"OOO", "url":"https://raw.githubusercontent.com/iamhuangli/icon/main/ooo.png"},
+        {"name":"Black", "url":"https://raw.githubusercontent.com/iamhuangli/icon/main/rider1.png"},
+    ]
+}
