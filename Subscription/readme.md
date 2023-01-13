@@ -5,6 +5,6 @@
 |     |     |
 | --- | --- |
 | 图标仓库名称 | 订阅地址 |
-| [KamenRider Icon](https://github.com/iamhuangli/Icon/tree/main/KamenRider "https://github.com/iamhuangli/Icon/tree/main/KamenRider") | [长按复制](https://raw.githubusercontent.com/iamhuangli/Icon/main/Subscription/KamenRiderIcon.json "https://raw.githubusercontent.com/iamhuangli/Icon/main/Subscription/KamenRiderIcon.json") |
+| [KamenRider Icon](https://github.com/iamhuangli/Icon/tree/main/KamenRider "https://github.com/iamhuangli/Icon/tree/main/KamenRider") | [长按复制订阅链接](https://raw.githubusercontent.com/iamhuangli/Icon/main/Subscription/KamenRiderIcon.json "https://raw.githubusercontent.com/iamhuangli/Icon/main/Subscription/KamenRiderIcon.json") |
 
 ## 二、未完待续
