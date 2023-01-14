@@ -1,6 +1,6 @@
 # 假面骑士骑士纹章Logo
 因为我觉得昭和系的Logo没啥特点（不是），先不加上了。以下为预览图：
-![KamenRider Icon](https://raw.githubusercontent.com/iamhuangli/Icon/main/KamenRider/preview.png)
+![KamenRider Icon](https://raw.githubusercontent.com/iamhuangli/Icon/main/KamenRider/preview.jpg)
 ## 一、目前包含的假面骑士Logo如下（按字母正序）：
 Agito
 Black
